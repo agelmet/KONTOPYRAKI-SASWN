@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/kontopyraki-sason-logo.svg"
+ },
+ "source_md5": "ca7643f6aaccde6ad68ce2ae83f409fc",
+ "version": "95558d9b",
+ "tile": "#F4F0E8",
+ "crop": null,
+ "header": [
+  "file",
+  "assets/img/kontopyraki-sason-logo.svg",
+  "ca7643f6aaccde6ad68ce2ae83f409fc"
+ ],
+ "made": "2026-10-21"
+}
