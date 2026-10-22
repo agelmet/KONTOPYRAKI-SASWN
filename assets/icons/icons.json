@@ -1,16 +1,16 @@
 {
  "source": {
   "kind": "file",
-  "ref": "assets/img/kontopyraki-sason-logo.svg"
+  "ref": "assets/img/kentro-psychotherapeias-kontopyraki-sason-logo-tile.png"
  },
- "source_md5": "ca7643f6aaccde6ad68ce2ae83f409fc",
- "version": "95558d9b",
- "tile": "#F4F0E8",
+ "source_md5": "95fbe5b3c8fbc568636c612bdd000a8e",
+ "version": "ff2f544b",
+ "tile": null,
  "crop": null,
  "header": [
   "file",
-  "assets/img/kontopyraki-sason-logo.svg",
-  "ca7643f6aaccde6ad68ce2ae83f409fc"
+  "assets/img/kentro-psychotherapeias-kontopyraki-sason-logo-160.webp",
+  "3f7ad12b8b3ae13f7a29e38ac4088a30"
  ],
- "made": "2026-10-21"
+ "made": "2026-10-22"
 }
