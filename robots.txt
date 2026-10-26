@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://psychotherapeia-pallini.gr/sitemap.xml
